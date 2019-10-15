@@ -1,0 +1,1 @@
+this is a homemade last pass system for your computer. You run the makefile.py with the name of the site, your user, and your password, if you don't add a password, one will be provided for you, this will be stored in a txt, so you can change the encryption method. In order to retrieve, you run the prog.py, then type the name of the site or the name of the txt file
